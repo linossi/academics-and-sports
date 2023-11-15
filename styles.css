@@ -137,3 +137,11 @@ nav a {
   background-color: #1c1c7f;
   color: white;
 }
+
+.titles-academics {
+  font-size: xx-large;
+  font-family: 'Teko', sans-serif;
+  margin-bottom: 10px;
+  text-align:left;
+  margin-left: 20px;
+} 
