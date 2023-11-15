@@ -152,3 +152,11 @@ nav a {
   margin: right 20px;
   line-height:1.5;
  }
+
+
+.thick-line {
+  border: none;
+  background-color:#1c1c7f;
+  height: 30px;
+  margin: 20px 0;
+}
