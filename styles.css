@@ -166,3 +166,22 @@ hr.thick-line {
   height: 30px;
   margin: 20px 0;
 }
+
+.sports-paragraph {
+  font-size: large;
+  margin-left:20px;
+  margin: right 20px;
+  line-height:1.5;
+ }
+
+.sports-list {
+  font-size: large;
+  margin-left:20px;
+  margin: right 20px;
+  line-height:1.5;
+  margin-bottom:5px;
+}
+
+.list-start {
+  text-decoration: underline #1c1c7f 3px;
+}
