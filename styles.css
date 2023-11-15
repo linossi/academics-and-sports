@@ -114,3 +114,12 @@ nav a {
     width: 100%;
 }
 
+.container {
+  display: flex; /* Use flexbox to create a flexible container */
+}
+
+.list1, .list2 {
+  list-style: none; /* Remove default list styles */
+  padding: 0;
+  margin: 0;
+}
