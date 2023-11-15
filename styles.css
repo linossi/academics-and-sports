@@ -170,6 +170,8 @@ hr.thick-line {
   margin: 20px 0;
 }
 
+/* mye av dette er bare endring av skriftstørrelse, farge, og mellomrom*/
+
 .sports-paragraph {
   font-size: large;
   margin-left:20px;
@@ -186,7 +188,7 @@ hr.thick-line {
 }
 
 .list-start {
-  text-decoration: underline #1c1c7f 3px;
+  text-decoration: underline #1c1c7f 3px; /* linje under en setning */
 }
 
 .footer {
