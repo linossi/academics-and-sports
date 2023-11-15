@@ -145,3 +145,10 @@ nav a {
   text-align:left;
   margin-left: 20px;
 } 
+
+.OC-text {
+  font-size: large;
+  margin-left:20px;
+  margin: right 20px;
+  line-height:1.5;
+ }
