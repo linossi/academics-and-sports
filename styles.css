@@ -192,3 +192,64 @@ hr.thick-line {
 .list-start {
   text-decoration: underline #1c1c7f 3px;
 }
+
+.footer {
+  display: flex;
+  flex-direction:column;
+  justify-content: space-between;
+  background-color:#1c1c7f;
+  color: #fff;
+  padding: 10px;
+}
+
+.sources {
+  font-size: xx-large;
+  font-family: 'Teko', sans-serif;
+  margin-bottom: 10px;
+  margin-top: 0;
+  text-align:left;
+  color: #fff;
+  display:flex-start;
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.links li {
+  margin: 5px 0;
+}
+
+.links li a {
+  color: #ffffff; /* Link farge */
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.links li a:hover {
+  text-decoration: underline; /* legger til linje under linken når musa er over linken */
+  color: #ff6600; /* Forandrer link farge når musa er over linken */
+}
+
+/* knapp for kode */
+.button {
+  background-color: #ffffff; /* knapp bakgrunnsfarge */
+  color: #1c1c7f; /* tekst farge */
+  padding: 20px 30px; /* størrelse */
+  border: none;
+  cursor: pointer;
+  margin-right:50px;
+  margin-left:150px;
+  border-radius: 12px;
+  font-size:large;
+  font-family: 'Teko', sans-serif;
+}
+
+/* mellomrom mellom knappen og linkene */
+.footer-content {
+  display: flex;
+  align-items: center;
+}
